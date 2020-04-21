@@ -1,6 +1,6 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Agile Skills</h1>
 <p align="center">
-	Agile Skills is a visual overview of useful skills to learn as a AGILE EXPERT. Go to <a href="https://andreasbm.github.io/web-skills" target="_blank" aria-label="Link to Web Skills">https://andreasbm.github.io/web-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/reynaldobarrosjr/agile-skills/" aria-label="Become stargazer link">become a contributor 🤩</a>
+	Agile Skills is a visual overview of useful skills to learn as a AGILE EXPERT. Go to <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link to Agile Skills">https://reynaldobarrosjr.github.io/agile-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/reynaldobarrosjr/agile-skills/" aria-label="Become Agilizer link">become a contributor 🤩</a>
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
@@ -17,7 +17,7 @@
 ## ➤ Table of Contents
 
 * [➤ FAQ](#-faq)
-	* [What is Web Skills?](#what-is-web-skills)
+	* [What is Agile Skills?](#what-is-web-skills)
 	* [How did you choose the skills?](#how-did-you-choose-the-skills)
 	* [How can I support you?](#how-can-i-support-you)
 	* [How can I get involved?](#how-can-i-get-involved)
