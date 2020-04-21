@@ -1,6 +1,6 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Agile Skills</h1>
 <p align="center">
-	Trilha da Agilidade é um panorama visual de habilidades que você deve buscar como especialista Ágil. Visite <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link to Agile Skills">https://reynaldobarrosjr.github.io/agile-skills</a> para checar o panorama ou rolar este reamepara visualizar como<a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">uma lista</a>. Se você gostou do projeto, seja bem vindo,  <a href="https://github.com/reynaldobarrosjr/agile-skills/" aria-label="Become Agilizer link">seja um parceiro nele 🤩</a>
+	Trilha da Agilidade é um panorama visual de habilidades que você deve buscar como especialista Ágil. Visite <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link para a trilha Ágil">https://reynaldobarrosjr.github.io/agile-skills</a> para checar o panorama ou reole esta página para visualizar como<a href="#-fundamentals" target="_blank" aria-label="Link para a lista de habilidades">uma lista</a>. Se é um Agile Coach, Scrum Master ou entusiasta de Agilidade, <a href="https://github.com/reynaldobarrosjr/agile-skills/" aria-label="Become Agilizer link">seja um parceiro 🤩, será uma honra sua colaboração aqui.</a>
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
@@ -14,10 +14,10 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## ➤ Lista de conteúdp
+## ➤ Lista de conteúdo
 
 * [➤ FAQ](#-faq)
-	* [O que é Agile Skills?](#what-is-agile-skills)
+	* [O que é a trilha da Agilidade?](#o-que-e-a-trilha-da-agilidade)
 	* [How did you choose the skills?](#how-did-you-choose-the-skills)
 	* [How can I support you?](#how-can-i-support-you)
 	* [How can I get involved?](#how-can-i-get-involved)
