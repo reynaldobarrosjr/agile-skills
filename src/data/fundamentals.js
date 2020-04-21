@@ -88,25 +88,11 @@ export const fundamentalsCollection = {
 		{
 			name: "SCRUM",
 			skills: [
+				
 				{
-					name: "scrum Guide",
+					name: "SCRUM GUIDE",
 					description: {
-						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
-						links: [
-							["MDN - CSS Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics"],
-							["W3Schools - CSS Tutorial", "https://www.w3schools.com/css/default.asp"],
-							["Supercharged - CSS Selectors", "https://www.youtube.com/watch?v=IKho_xDKaLw"],
-							["MDN - CSS first steps", "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps"],
-							["MDN - CSS building blocks", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks"],
-							["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-							["MDN - CSS Syntax", "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"],
-						]
-					}
-				},
-				{
-					name: "Selectors",
-					description: {
-						text: "Learn about CSS selectors and how to effeciently target DOM elements.",
+						text: "Leia o SCRUM GUIDE.",
 						links: [
 							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
 							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
@@ -117,22 +103,19 @@ export const fundamentalsCollection = {
 					},
 					skills: [
 						{
-							name: "Specificity",
+							name: "Papéis",
 							description: {
-								text: "Learn what specificity means and how to use it when writing CSS.",
+								text: "Aprenda sobre os diferentes papéis em um time scrum.",
 								links: [
 									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
-									["MDN - Cascade and inheritance", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance"],
-									["dev.to - CSS Specificity", "https://dev.to/emmawedekind/css-specificity-1kca"],
-									["Specificity Calculator", "https://specificity.keegan.st/"],
-									["W3Schools - CSS Specificity", "https://www.w3schools.com/css/css_specificity.asp"]
+									
 								]
 							},
 						},
 						{
-							name: "Pseudo Selectors",
+							name: "Eventos",
 							description: {
-								text: "Learn how to use pseudo selectors.",
+								text: "Aprenda sobre os diferentes eventos do framework SCRUM.",
 								links: [
 									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
 									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
@@ -142,6 +125,18 @@ export const fundamentalsCollection = {
 								]
 							},
 						},
+            {
+							name: "Artefatos",
+							description: {
+								text: "Aprenda sobre os artefatos do framework SCRUM.",
+								links: [
+									["Backlog do produto", "#"],
+									["Sprint Backlog", "#"],
+									["Incremento", "#"],
+									
+								]
+							},
+						}
 					]
 				},
 				{
