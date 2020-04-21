@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals ---- ",
+	name: "Fundamentals",
 	areas: [
 		{
 			name: "LEAN",
@@ -89,10 +89,10 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "CSS",
+			name: "SCRUM",
 			skills: [
 				{
-					name: "Syntax",
+					name: "scrum Guide",
 					description: {
 						text: "Learn the basics of CSS and get comfortable with it's syntax and main concepts.",
 						links: [
@@ -343,7 +343,7 @@ export const fundamentalsCollection = {
 			]
 		},
 		{
-			name: "Javascript",
+			name: "Kanban",
 			skills: [
 				{
 					name: "Syntax",
