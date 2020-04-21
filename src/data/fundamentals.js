@@ -19,15 +19,15 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Get familiar with Lean Startup",
 								links: [
-									["O que é Lean startup?", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"]],
-	
-		          },
-              }
-        ]
-        }
-    }
-        
-        ,
+									["O que é Lean startup?", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
+									
+								]
+							},
+						},
+					]
+				},
+			]
+		},
 		{
 			name: "SCRUM",
 			skills: [
@@ -43,13 +43,7 @@ export const fundamentalsCollection = {
 							["MDN - CSS building blocks", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks"],
 							["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
 							["MDN - CSS Syntax", "https://developer.mozilla.org/en-US/docs/Web/CSS/Syntax"],
-						], 
-              skills: [
-              name: "Papéis",
-              description:{
-                text:"Aprenda sobre os diferentes papéis do SCRUM"
-              },
-              ]
+						]
 					}
 				},
 				{
