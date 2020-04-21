@@ -9,15 +9,15 @@
 </p>
 <br />
 <details>
-<summary>📖 Table of Contents</summary>
+<summary>📖 Lista de conteúdo</summary>
 <br />
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## ➤ Table of Contents
+## ➤ Lista de conteúdp
 
 * [➤ FAQ](#-faq)
-	* [What is Agile Skills?](#what-is-web-skills)
+	* [O que é Agile Skills?](#what-is-agile-skills)
 	* [How did you choose the skills?](#how-did-you-choose-the-skills)
 	* [How can I support you?](#how-can-i-support-you)
 	* [How can I get involved?](#how-can-i-get-involved)
@@ -406,9 +406,10 @@
 
 ## ➤ FAQ
 
-### What is Web Skills?
+### O que é a trilha da Agilidade?
 
-Web Skills is a visual overview of useful skills to learn as a web developer. It is useful for people who just started learning about web development and for people who have been in the field for years and want to learn new things. As a beginner, I would encourage you not to see this website as the definitive list of what you need to know but as an example of what you can learn and where you can start. The skills are arranged in chronological order based on what learning path I recommend you to take but feel free to jump around freely.
+Trilha da Agilidade é um panorama visual de habilidades úteis para um agilista. É uteil para pessoas que estão começando a aprender, assim como para pessoas que estão na área há muito tempo e precisam aprender coisas novas. Se você estiver ingressando no mundo àgil agora não quero que pense que aqui está uma lista definitiva de coisas que você deve buscar para se desenvolver como Agilista, mas como um ponto de partida para as disciplinas que você poderá se apropriar. As habilidades estão ordenadas em ordem cronológica tomando como base a trilha que consultei junto a comunidade Ágil brasileira. Fique à vontade!
+
 
 ### How did you choose the skills?
 		
