@@ -1,6 +1,6 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Agile Skills</h1>
 <p align="center">
-	Trilha da Agilidade é um panorama visual de habilidades que você deve buscar como especialista Ágil. Visite <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link para a trilha Ágil">https://reynaldobarrosjr.github.io/agile-skills</a> para checar o panorama ou reole esta página para visualizar como <a href="#-fundamentals" target="_blank" aria-label="Link para a lista de habilidades">uma lista</a>. Se você é um Agile Coach, Scrum Master ou entusiasta de Agilidade, <a href="https://github.com/reynaldobarrosjr/agile-skills/" aria-label="Become Agilizer link">seja um parceiro 🤩, será uma honra sua colaboração aqui.</a>
+	Trilha da Agilidade é um panorama visual de habilidades que você deve buscar como especialista Ágil. Visite <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link para a trilha Ágil">https://reynaldobarrosjr.github.io/agile-skills</a> para checar o panorama ou reole esta página para visualizar como <a href="#-fundamentals" target="_blank" aria-label="Link para a lista de habilidades">uma lista</a>. Se você é um Agile Coach, Scrum Master ou entusiasta de Agilidade, <a href="https://github.com/reynaldobarrosjr/agile-skills/#seja-um-parceiro" aria-label="Become Agilizer link">seja um parceiro 🤩, será uma honra sua colaboração aqui.</a>
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
@@ -20,7 +20,7 @@
 	* [O que é a trilha da Agilidade?](#o-que-e-a-trilha-da-agilidade)
 	* [How did you choose the skills?](#how-did-you-choose-the-skills)
 	* [How can I support you?](#how-can-i-support-you)
-	* [How can I get involved?](#how-can-i-get-involved)
+	* [Como posso contribuir?](#como-posso-contribuir)
 	* [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
 	* [I am overwhelmed! Help me!](#i-am-overwhelmed-help-me)
 	* [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
@@ -419,9 +419,9 @@ The skills are derived from a combination of 10 years of experience, a bachelor 
 
 I am spending my spare time building Web Skills for free because I want to help people get into web development. My motivation comes from people finding Web Skills useful, so if you like the project feel free to support me in any way you like! For example, you are more than welcome to become a [stargazer](https://github.com/andreasbm/web-skills/stargazers), share Web Skills with your friends and followers or create blog articles linking to Web Skills. If you want to, it will absolutely make my day if you [support me with a cup of coffee](https://www.buymeacoffee.com/AndreasMehlsen)! <3
 
-### How can I get involved?
+### Como posso contribuir?
+Você é muito bem vindo para contribuir do jeito que quiser. Se você puder, coloque suas ideias em [issues page](https://github.com/reynaldobarrosjr/agile-skills/issues). Assim me ajudará com possíveis erros nos textos, bugs na página ou até mesmo novas features. Qualquer ajuda é bem vinda!
 
-You are welcome to get involved in any way you like. If you want to, you can go to the [issues page](https://github.com/andreasbm/web-skills/issues) and help me fix the spelling, fix issues or suggest some new features. Any involvement is highly appreciated!
 
 ### How can I keep track of what skills I know?
 
