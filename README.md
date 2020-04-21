@@ -27,7 +27,7 @@
 	* [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
 	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
 * [➤ Fundamentals](#-fundamentals)
-	* [HTML](#html)
+	* [LEAN](#lean)
 	* [Syntax](#syntax)
 		* [Basic Tags](#basic-tags)
 	* [Forms](#forms)
