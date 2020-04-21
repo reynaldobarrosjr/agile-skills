@@ -119,33 +119,8 @@ export const fundamentalsCollection = {
 							},
 						}
 					]
-				},
-				{
-					name: "Box Model",
-					description: {
-						text: "Learn what the CSS box model means.",
-						links: [
-							["MDN - Introduction to the CSS basic box model", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model"],
-							["MDN - The box model", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model"],
-							["CSS Tricks - Inheriting box-sizing", "https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/"],
-						]
-					},
-					skills: [
-						{
-							name: "Margin Collapsing",
-							description: {
-								text: "Learn about margin collapsing.",
-								links: [
-									["MDN - Mastering margin collapsing", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing"],
-									["Margin Collapse in CSS: What, Why, and How", "https://medium.com/@joseph0crick/margin-collapse-in-css-what-why-and-how-328c10e37ca0"],
-									["CSS Tricks - What You Should Know About Collapsing Margins", "https://css-tricks.com/what-you-should-know-about-collapsing-margins/"],
-									["What's the Deal with Collapsible Margins?", "https://bitsofco.de/collapsible-margins/"],
-									["What’s the Deal with Margin Collapse?", "https://jonathan-harrell.com/whats-the-deal-with-margin-collapse/"],
-								]
-							},
-						}
-					]
-				},
+				}
+				,
 				/*{
 					name: "Overflow",
 					description: {
@@ -157,67 +132,9 @@ export const fundamentalsCollection = {
 						]
 					},
 				},*/
-				{
-					name: "Colors",
-					description: {
-						text: "Learn the different ways you can define colors in CSS.",
-						links: [
-							["MDN - Color", "https://developer.mozilla.org/en-US/docs/Web/CSS/color"],
-							["MDN - <color>", "https://developer.mozilla.org/en-US/docs/Web/CSS/color_value"],
-							["W3Schools - CSS Colors", "https://www.w3schools.com/css/css_colors.asp"],
-						]
-					},
-				},
-				{
-					name: "Calc",
-					description: {
-						text: "Learn how to use the CSS calc function.",
-						links: [
-							["MDN - Calc", "https://developer.mozilla.org/en-US/docs/Web/CSS/calc"],
-							["CSS Tricks - A Couple of Use Cases for Calc()", "https://css-tricks.com/a-couple-of-use-cases-for-calc/"],
-						]
-					},
-				},
-				{
-					name: "Layout",
-					description: {
-						text: "Learn the different layout types for web.",
-						links: [
-							["Chrome Dev - Basic Layout", "https://developers.google.com/training/certification/mobile-web-specialist/study-guide/basic-layout"],
-							["W3Schools - CSS Website Layout", "https://www.w3schools.com/css/css_website_layout.asp"],
-							["MDN - Document and website structure", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure"],
-							["MDN - CSS layout", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout"],
-						]
-					},
-					skills: [
-						{
-							name: "Flex",
-							description: {
-								text: "Learn how to create layouts using flexbox.",
-								links: [
-									["MDN - Flexbox", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox"],
-									["A Complete Guide to Flexbox", "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"],
-									["MDN - Flexbox", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox"],
-									["Flexbox Froggy", "https://flexboxfroggy.com/"],
-									["Flexbox Defense", "http://flexboxdefense.com"],
-								]
-							},
-						},
-						{
-							name: "Grid",
-							description: {
-								text: "Learn how to create layouts using CSS Grid.",
-								links: [
-									["MDN - Grids", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids"],
-									["A Complete Guide to CSS Grid", "https://css-tricks.com/snippets/css/complete-guide-grid/"],
-									["MDN - CSS Grid", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout"],
-									["CSS Grid Garden", "https://cssgridgarden.com/"],
-									["Supercharged - CSS Grids", "https://www.youtube.com/watch?v=AqwPrR7hklE"]
-								]
-							},
-						}
-					]
-				},
+				
+				
+				
 				{
 					name: "Transforms",
 					description: {
