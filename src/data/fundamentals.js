@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "Fundamentals ---- ",
 	areas: [
 		{
 			name: "LEAN",
