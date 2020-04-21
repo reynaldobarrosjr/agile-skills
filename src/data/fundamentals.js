@@ -2,14 +2,14 @@ export const fundamentalsCollection = {
 	name: "Fundamentals",
 	areas: [
 		{
-			name: "HTML",
+			name: "LEAN",
 			skills: [
 				{
-					name: "Syntax",
+					name: "Lean",
 					description: {
-						text: "Learn the basics of HTML and get comfortable with it's syntax and main concepts.",
+						text: "Learn the basics of LEAN  and get comfortable with it's filosophy and main concepts.",
 						links: [
-							["MDN - HTML Basics", "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"],
+							["What is Lean", "https://www.lean.org/"],
 							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
 							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
 						]
