@@ -19,13 +19,70 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Get familiar with Lean Startup",
 								links: [
-									["O que é Lean startup?", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
+									["O que é Lean startup", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
 									
 								]
 							},
 						},
 					]
 				},
+				{
+					name: "Forms",
+					description: {
+						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
+						links: [
+							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
+							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
+							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
+						]
+					}
+				},
+				{
+					name: "SEO",
+					description: {
+						text: "Learn how to make your content search-friendly.",
+						links: [
+							["web.dev - Discoverable", "https://web.dev/discoverable"],
+							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
+							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
+							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
+						]
+					},
+					skills: [
+						{
+							name: "Discoverable Content",
+							description: {
+								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
+								links: [
+									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
+									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
+									["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
+									["web.dev - Easily discoverable", "https://web.dev/discoverable"]
+								]
+							}
+						}
+					]
+				},
+				{
+					name: "Svg",
+					description: {
+						text: "Learn how to work with SVG files to make graphics look crisp across all screen resolutions.",
+						links: [
+							["MDN - Adding vector graphics to the Web", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web"],
+							["SVG on the web", "https://svgontheweb.com/"],
+						]
+					}
+				},
+				{
+					name: "Best Practices",
+					description: {
+						text: "Learn the best practices of writing HTML.",
+						links: [
+							["MDN - HTML guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/HTML"],
+							["W3Schools - HTML Coding Conventions", "https://www.w3schools.com/html/html5_syntax.asp"]
+						]
+					}
+				}
 			]
 		},
 		{
