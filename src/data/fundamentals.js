@@ -1,5 +1,5 @@
 export const fundamentalsCollection = {
-	name: "Fundamentals",
+	name: "FUNDAMENTOS",
 	areas: [
 		{
 			name: "LEAN",
@@ -7,23 +7,20 @@ export const fundamentalsCollection = {
 				{
 					name: "Lean",
 					description: {
-						text: "Learn the basics of LEAN  and get comfortable with it's filosophy and main concepts.",
+						text: "Aprenda o basico de LEAN e se familiarize com os conceitos da filosofia.",
 						links: [
-							["What is Lean", "https://www.lean.org/"],
-							["MDN - Introduction to HTML", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML"],
-							["Codecademy - Learn HTML", "https://www.codecademy.com/learn/learn-html"],
+							["O que é LEAN?", "https://www.lean.org.br/o-que-e-lean.aspx"],
+							
 						]
 					},
 					skills: [
 						{
-							name: "Basic Tags",
+							name: "Lean Startup",
 							description: {
-								text: "Get familiar with the basic HTML tags",
+								text: "Get familiar with Lean Startup",
 								links: [
-									["MDN - HTML elements reference", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Tutorialspoint - Basic HTML tags", "https://www.tutorialspoint.com/html/html_basic_tags.htm"],
-									["Elated - First 10 HTML tags", "https://www.elated.com/first-10-html-tags/"],
-									["W3Schools - HTML tags", "https://www.w3schools.com/tags/ref_byfunc.asp"]
+									["O que é Lean startup", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
+									
 								]
 							},
 						},
