@@ -19,15 +19,15 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Get familiar with Lean Startup",
 								links: [
-									["O que é Lean startup?", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									
-								]
-							},
-						},
-					]
-				},
-			]
-		},
+									["O que é Lean startup?", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"]],
+	
+		          },
+              }
+        ]
+        }
+        }
+        
+        ,
 		{
 			name: "SCRUM",
 			skills: [
