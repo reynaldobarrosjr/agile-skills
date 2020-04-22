@@ -10,9 +10,8 @@ export const fundamentalsCollection = {
 						text: "Aprenda o basico de LEAN e se familiarize com os conceitos da filosofia.",
 						links: [
 							["O que é LEAN?", "https://www.lean.org.br/o-que-e-lean.aspx"],
-							
 						]
-					},
+				},
 					skills: [
 						{
 							name: "Lean Startup",
@@ -26,44 +25,6 @@ export const fundamentalsCollection = {
 						},
 					]
 				},
-				{
-					name: "Forms",
-					description: {
-						text: "Learn how to design efficient forms, validating them effectively and keeping the user informed along the way.",
-						links: [
-							["MDN - HTML forms", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms"],
-							["Google Web - Forms", "https://developers.google.com/web/fundamentals/design-and-ux/input/forms/"],
-							["W3Schools - Forms", "https://www.w3schools.com/html/html_forms.asp"],
-						]
-					}
-				},
-				{
-					name: "SEO",
-					description: {
-						text: "Learn how to make your content search-friendly.",
-						links: [
-							["web.dev - Discoverable", "https://web.dev/discoverable"],
-							["Google Search - Get Started", "https://developers.google.com/search/docs/guides/get-started"],
-							["Google Search - SEO basics", "https://developers.google.com/search/docs/guides/javascript-seo-basics"],
-							["web.dev - SEO audits", "https://web.dev/lighthouse-seo"]
-						]
-					},
-					skills: [
-						{
-							name: "Discoverable Content",
-							description: {
-								text: "Learn how to structure your HTML in a way that provides a rich experience when sharing it online.",
-								links: [
-									["Google Web - Social Discovery", "https://developers.google.com/web/fundamentals/discovery/social-discovery"],
-									["Google Search - Search Features", "https://developers.google.com/search/docs/guides/search-features"],
-									["Google Search - Structured Data", "https://developers.google.com/search/docs/guides/intro-structured-data"],
-									["web.dev - Easily discoverable", "https://web.dev/discoverable"]
-								]
-							}
-						}
-					]
-				},
-				
 			]
 		},
 		{
@@ -75,11 +36,8 @@ export const fundamentalsCollection = {
 					description: {
 						text: "Leia o SCRUM GUIDE.",
 						links: [
-							["MDN - CSS selectors", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors"],
-							["MDN - All selectors", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors"],
-							["CSS Tricks - Child and Sibling Selectors", "https://css-tricks.com/child-and-sibling-selectors/"],
-							["CSS Tricks - All Selectors", "https://css-tricks.com/almanac/selectors/"],
-							["W3Schools - CSS Combinators", "https://www.w3schools.com/css/css_combinators.asp"]
+							["Guia Scrum em Português - última versão (2017)", "https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf"],
+							
 						]
 					},
 					skills: [
@@ -88,7 +46,7 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Aprenda sobre os diferentes papéis em um time scrum.",
 								links: [
-									["MDN - Specificity", "https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity"],
+									["Quais são os papéis no SCRUM", "#"],
 									
 								]
 							},
