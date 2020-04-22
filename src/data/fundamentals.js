@@ -19,6 +19,9 @@ export const fundamentalsCollection = {
 								text: "Get familiar with Lean Startup",
 								links: [
 									["O que é Lean startup", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
+									["Os 5 princípios do Lean Manufaturing", "https://www.youtube.com/watch?v=izqiwdriepw"],
+
+                  
 									
 								]
 							},
@@ -79,115 +82,6 @@ export const fundamentalsCollection = {
 					]
 				}
 				,
-				/*{
-					name: "Overflow",
-					description: {
-						text: "Learn about what happens when there is too much content to be contained comfortably inside a box and how to manage it.",
-						links: [
-							["MDN - Overflowing content", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Overflowing_content"],
-							["W3Schools - CSS Layout: Overflow", "https://www.w3schools.com/css/css_overflow.asp"],
-							["Overflow In CSS", "https://ishadeed.com/article/overflow-css/"]
-						]
-					},
-				},*/
-				
-				
-				
-				{
-					name: "Transforms",
-					description: {
-						text: "Learn the different ways to transform elements through CSS.",
-						links: [
-							["MDN - transform", "https://developer.mozilla.org/en-US/docs/Web/CSS/transform"],
-							["CSS Tricks - Transform", "https://css-tricks.com/almanac/properties/t/transform/"],
-						]
-					},
-					skills: [
-						{
-							name: "Animations",
-							description: {
-								text: "Learn how to animate elements through CSS using keyframes.",
-								links: [
-									["MDN - Using CSS animations", "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations"],
-									["CSS Tricks - Animation", "https://css-tricks.com/almanac/properties/a/animation/"],
-								]
-							},
-						}
-					]
-				},
-				{
-					name: "Responsive Design",
-					description: {
-						text: "Learn how to make your website responsive so it works across different screen sizes.",
-						links: [
-							["MDN - Responsive design", "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"],
-							["Responsive Web Design Fundamentals by Google", "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893"],
-							["Google Dev - Responsive Design", "https://developers.google.com/web/fundamentals/design-and-ux/responsive"],
-							["Google Dev - UX Patterns", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/patterns"],
-							["Google Dev - Responsive Content", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/content"],
-							["Codelabs - Responsive Design", "https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0"],
-						]
-					},
-					skills: [
-						{
-							name: "Media Queries",
-							description: {
-								text: "Learn how use media queries to build responsive layout.",
-								links: [
-									["CSS Tricks - CSS Media Queries & Using Available Space", "https://css-tricks.com/css-media-queries/"],
-									["MDN - Using media queries", "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries"],
-									["MDN - Using Media Queries for Accessibility", "https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_Media_Queries_for_Accessibility"],
-								]
-							},
-						},
-						{
-							name: "Relative Units",
-							description: {
-								text: "Learn how to use relative units for properties such as font sizes and spacing.",
-								links: [
-									["MDN - Sizing items in CSS", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Sizing_items_in_CSS"],
-									["MDN - CSS values and units", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units"],
-									["The CSS Workshop - Relative Units", "https://thecssworkshop.com/lessons/relative-units"],
-									["CSS Tricks - Fun with Viewport Units", "https://css-tricks.com/fun-viewport-units/"],
-									["dev.to - 15 CSS Relative units", "https://dev.to/bytegasm/15-css-relative-units-how-many-do-you-know-em-rem-ex-cap-ch-ic-6m"],
-								]
-							},
-						},
-						{
-							name: "Images",
-							description: {
-								text: "Learn how to make images responsive, always showing the best possible version for the screen size.",
-								links: [
-									["Google Devs - Responsive Images", "https://developers.google.com/web/fundamentals/design-and-ux/responsive/images"],
-									["MDN - Responsive Images", "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"],
-								]
-							}
-						}
-					]
-				},
-				{
-					name: "CSS Variables",
-					description: {
-						text: "Learn how to define and use CSS variables.",
-						links: [
-							["MDN - Using CSS custom properties", "https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties"],
-							["Google Devs - CSS Variables: Why Should You Care?", "https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care"],
-							["dev.to - CSS Quickies: CSS Variables", "https://dev.to/lampewebdev/css-quickies-css-variables-or-how-you-create-a-white-dark-theme-easily-1i0i"],
-							["CSS Variables explained with 5 examples", "https://codeburst.io/css-variables-explained-with-5-examples-84adaffaa5bd"],
-						]
-					}
-				},
-				{
-					name: "Best Practices",
-					description: {
-						text: "Learn the best practices of writing CSS.",
-						links: [
-							["MDN - CSS guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/CSS"],
-							["MDN - Organizing your CSS", "https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Organizing"],
-							["Speckyboy - Good and bad CSS practices", "https://speckyboy.com/good-bad-css-practices/"],
-						]
-					}
-				}
 			]
 		},
 		{
