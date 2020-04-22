@@ -10,13 +10,14 @@ export const fundamentalsCollection = {
 						text: "Aprenda o basico de LEAN e se familiarize com os conceitos da filosofia.",
 						links: [
 							["O que é LEAN?", "https://www.lean.org.br/o-que-e-lean.aspx"],
+							["Guia da metodologia Lean","https://gaea.com.br/guia-completo-para-entender-a-metodologia-lean-de-uma-vez-por-todas/"]
 						]
 				},
 					skills: [
 						{
 							name: "Lean Startup",
 							description: {
-								text: "Get familiar with Lean Startup",
+								text: "Conheça o conceito Lean Startup de Eric Reis",
 								links: [
 									["O que é Lean startup", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
 									["Os 5 princípios do Lean Manufaturing", "https://www.youtube.com/watch?v=izqiwdriepw"],
