@@ -16,6 +16,19 @@ export const fundamentalsCollection = {
 				},
 					skills: [
 						{
+							name: "Metodologia Lean",
+							description: {
+								text: "Conheça a metodologia Lean",
+								links: [
+									["O que é Lean startup", "https://meusucesso.com/artigos/inovacao-e-tecnologia/o-que-e-lean-startup-10/"],
+
+
+
+
+								]
+							},
+						},
+						{
 							name: "Lean Startup",
 							description: {
 								text: "Conheça o conceito Lean Startup",
@@ -27,7 +40,8 @@ export const fundamentalsCollection = {
 
 								]
 							},
-						},
+						}
+
 					]
 				},
 			]
