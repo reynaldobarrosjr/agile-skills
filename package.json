@@ -1,9 +1,9 @@
 {
-	"name": "web-skills",
-	"description": "A visual overview of useful skills to learn as a web developer",
+	"name": "trilha-agil",
+	"description": "Um panorama visual do que você deve aprender em sua jornada Ágil.",
 	"type": "module",
 	"license": "MIT",
-	"author": "Andreas Mehlsen",
+	"author": "Reynaldo Barros Jr",
 	"bugs": {
 		"url": "https://github.com/andreasbm/web-skills/issues"
 	},
@@ -13,25 +13,14 @@
 		"url": "git+https://github.com/andreasbm/web-skills.git"
 	},
 	"keywords": [
-		"web",
-		"skills",
-		"learn",
-		"overview",
-		"links",
-		"html",
-		"css",
-		"javascript",
-		"accessibility",
-		"web components",
-		"pwa",
-		"build tools",
-		"frameworks",
-		"testing",
-		"architecture",
-		"design",
-		"ux",
-		"algorithms",
-		"backend"
+		"lean",
+		"agilidade",
+		"skills agilidade",
+		"agilecoach",
+		"scrum",
+		"kanban",
+		"guida para agilista",
+		"javascript"
 	],
 	"scripts": {
 		"serve": "npx servor . index.html 1614 --browse",
@@ -45,15 +34,15 @@
 	},
 	"contributors": [
 		{
-			"name": "Andreas Mehlsen",
-			"url": "https://twitter.com/andreasmehlsen",
+			"name": "Reynaldo Barros Jr",
+			"url": "https://twitter.com/reynaldosouzajr",
 			"img": "https://avatars1.githubusercontent.com/u/6267397?s=460&v=4",
 			"info": [
 				"🔥"
 			]
 		},
 		{
-			"name": "You?",
+			"name": "Você?",
 			"img": "https://joeschmoe.io/api/v1/random",
 			"url": "https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md"
 		}
