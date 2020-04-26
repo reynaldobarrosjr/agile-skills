@@ -74,21 +74,21 @@ export class App extends LitElement {
 				:host {
 					display: block;
 				}
-				
+
 				:host(:not([compact])) {
 					cursor: grab;
 				}
-				
+
 				:host(:not([compact])[dragging]) {
 					cursor: grabbing;
 					will-change: scroll-position;
 					user-select: none;
 				}
-				
+
 				#header {
 					padding: var(--spacing-m) var(--spacing-l);
 				}
-				
+
 				#collections {
 					padding: var(--spacing-xxxl) var(--spacing-xxxl) 0;
 					display: flex;
@@ -96,7 +96,7 @@ export class App extends LitElement {
     			    align-items: flex-start;
     			    min-width: min-content;
 				}
-				
+
 				#footer {
 					padding: var(--spacing-l) var(--spacing-xxxl);
 				}
@@ -104,21 +104,21 @@ export class App extends LitElement {
 				.collection:not(:last-child) {
 					margin: 0 0 var(--spacing-xxl);
 				}
-				
+
 				#header, #footer, #skip-navigation {
 					justify-content: space-between;
 				}
-				
+
 				#header, #header > div, #footer, #footer > div, #skip-navigation, #skip-navigation > div {
 					display: flex;
 					align-items: center;
 				}
-				
+
 				#header > div > :not(:last-child),
 				#footer > div > :not(:last-child) {
 					margin: 0 var(--spacing-l) 0 0;
 				}
-				
+
 				#avatar {
 					display: flex;
 					align-items: center;
@@ -136,7 +136,7 @@ export class App extends LitElement {
 				:host([compact]) #collections {
 					padding: 0 var(--spacing-l) var(--spacing-s);
 				}
-				
+
 				:host([compact]) #footer {
 					padding: var(--spacing-xxl) var(--spacing-l) var(--spacing-l);
 				}
@@ -149,11 +149,11 @@ export class App extends LitElement {
 				:host([compact]) .collection:not(:last-child) {
 					margin: 0 0 var(--spacing-l);
 				}
-				
+
 				:host([compact]) #blur {
 					display: none;
 				}
-				
+
 				:host(:not([compact])) #header {
 					position: fixed;
 					top: 0;
@@ -161,17 +161,17 @@ export class App extends LitElement {
 					width: 100%;
 					background: var(--background-opaque);
 				}
-				
+
 				#toggle-compact {
 					display: flex;
 					align-content: center;
 				}
-				
+
 				a {
 					color: var(--foreground);
 					text-decoration: none;
 				}
-				
+
 				kbd {
 					font-family: inherit;
 					background: var(--background);
@@ -179,7 +179,7 @@ export class App extends LitElement {
 					padding: 0 var(--spacing-xs);
 					border-radius: var(--border-radius-s);
 				}
-				
+
 				#skip-navigation {
 					position: fixed;
 					width: 100%;
@@ -192,7 +192,7 @@ export class App extends LitElement {
 					z-index: -12345;
 					display: flex;
 				}
-				
+
 				#skip-navigation:focus-within {
 					outline: var(--focus-outline);
 					z-index: 123456789;
@@ -200,11 +200,11 @@ export class App extends LitElement {
 					left: 0;
 					top: 0;
 				}
-				
+
 				#coffee {
 					position: relative;
 				}
-				
+
 				#steam {
 				  width: 80%;
 				  position: absolute;
@@ -215,7 +215,7 @@ export class App extends LitElement {
 				  filter: blur(3px);
 				  color: #FFF;
 				}
-				
+
 				@keyframes steaming {
 				  0% {
 				    opacity: 0;
@@ -232,13 +232,13 @@ export class App extends LitElement {
 					transform: translate(-50%, -10%) rotate(-10deg);
 				  }
 				}
-				
+
 				@media (max-width: 800px) {
 					#toggle-compact {
 						display: none;
 					}
 				}
-				
+
 				@media (max-width: 1000px) {
 					#footer > div {
 						flex-wrap: wrap;
@@ -246,7 +246,7 @@ export class App extends LitElement {
 						justify-content: stretch;
 						align-items: center;
 					}
-					
+
 					#footer > div > * {
 						padding: var(--spacing-m);
 						width: 100%;
@@ -254,7 +254,7 @@ export class App extends LitElement {
 						margin: 0 0 var(--spacing-m) !important;
 					}
 				}
-				
+
 				@media (any-pointer: coarse) {
 					#skip-navigation {
 						display: none;
@@ -686,7 +686,7 @@ export class App extends LitElement {
 			</div>
 			<header id="header">
 				<div>
-					<a href="https://github.com/andreasbm/web-skills" target="_blank" rel="noopener" aria-label="Open Github" title="Open Github">
+					<a href="https://github.com/reynaldobarrosjr/agile-skills" target="_blank" rel="noopener" aria-label="abrir github" title="abrir github">
 						<ws-icon hoverable .template="${githubIconTemplate}"></ws-icon>
 					</a>
 					${user != null ? html`
@@ -700,13 +700,13 @@ export class App extends LitElement {
 					<div id="toggle-compact" title="${this.compact ? `Disable` : `Enable`} compact layout">
 						<ws-compact-switch @toggle="${this.toggleCompact}" ?checked="${this.compact}"></ws-compact-switch>
 					</div>
-					<ws-button aria-label="Open help" @click="${this.openHelp}" title="Open help">
+					<ws-button aria-label="ajuda" @click="${this.openHelp}" title="Abre a ajuda">
 						<ws-icon .template="${helpIconTemplate}"></ws-icon>
 					</ws-button>
-					<ws-button aria-label="Share website" @click="${this.share}" title="Open share menu">
+					<ws-button aria-label="compartilhar" @click="${this.share}" title="Abre o link de compartilhamento">
 						<ws-icon .template="${shareIconTemplate}"></ws-icon>
 					</ws-button>
-					<a aria-label="Open author" href="https://andreasbm.github.io" target="_blank" rel="noopener" title="Say hi">
+					<a aria-label="autor" href="https://www.reynaldobarrosjr.com" target="_blank" rel="noopener" title="Dê um oi!">
 						<ws-icon hoverable .template="${andreasIconTemplate}" ></ws-icon>
 					</a>
 					<a id="coffee" aria-label="Buy coffee" href="https://www.buymeacoffee.com/AndreasMehlsen" rel="noopener" title="Support me <3" target="_blank">
