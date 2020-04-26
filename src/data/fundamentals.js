@@ -10,20 +10,21 @@ export const fundamentalsCollection = {
 						text: "Aprenda o basico de LEAN e se familiarize com os conceitos da filosofia.",
 						links: [
 							["O que é LEAN?", "https://www.lean.org.br/o-que-e-lean.aspx"],
-							["Guia da metodologia Lean","https://gaea.com.br/guia-completo-para-entender-a-metodologia-lean-de-uma-vez-por-todas/"]
+							["Guia da metodologia Lean","https://gaea.com.br/guia-completo-para-entender-a-metodologia-lean-de-uma-vez-por-todas/"],
+							["Os 5 princípios do Lean Manufaturing", "https://www.youtube.com/watch?v=izqiwdriepw"],
 						]
 				},
 					skills: [
 						{
 							name: "Lean Startup",
 							description: {
-								text: "Conheça o conceito Lean Startup de Eric Reis",
+								text: "Conheça o conceito Lean Startup",
 								links: [
-									["O que é Lean startup", "https://developer.mozilla.org/en-US/docs/Web/HTML/Element"],
-									["Os 5 princípios do Lean Manufaturing", "https://www.youtube.com/watch?v=izqiwdriepw"],
+									["O que é Lean startup", "https://meusucesso.com/artigos/inovacao-e-tecnologia/o-que-e-lean-startup-10/"],
 
-                  
-									
+
+
+
 								]
 							},
 						},
@@ -34,14 +35,14 @@ export const fundamentalsCollection = {
 		{
 			name: "SCRUM",
 			skills: [
-				
+
 				{
 					name: "SCRUM GUIDE",
 					description: {
 						text: "Leia o SCRUM GUIDE.",
 						links: [
 							["Guia Scrum em Português - última versão (2017)", "https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf"],
-							
+
 						]
 					},
 					skills: [
@@ -51,7 +52,7 @@ export const fundamentalsCollection = {
 								text: "Aprenda sobre os diferentes papéis em um time scrum.",
 								links: [
 									["Quais são os papéis no SCRUM", "#"],
-									
+
 								]
 							},
 						},
@@ -76,7 +77,7 @@ export const fundamentalsCollection = {
 									["Backlog do produto", "#"],
 									["Sprint Backlog", "#"],
 									["Incremento", "#"],
-									
+
 								]
 							},
 						}
