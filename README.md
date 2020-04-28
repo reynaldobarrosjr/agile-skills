@@ -1,7 +1,7 @@
 <!-- ⚠️ This README has been generated from the file(s) "blueprint.md" ⚠️--><h1 align="center">Agile Skills</h1>
 <p align="center">
 	Trilha da Agilidade é um panorama visual de habilidades que você deve buscar como especialista Ágil. Visite <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link para a trilha Ágil">https://reynaldobarrosjr.github.io/agile-skills</a> para checar o panorama ou role esta página para visualizar como <a href="#-fundamentals" target="_blank" aria-label="Link para a lista de habilidades">uma lista</a>. Se você é um Agile Coach, Scrum Master ou entusiasta de Agilidade, <a href="https://github.com/reynaldobarrosjr/agile-skills/#seja-um-parceiro" aria-label="Become Agilizer link">seja um parceiro 🤩, será uma honra sua colaboração aqui.</a>
-</p> 
+</p>
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
 		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
@@ -29,7 +29,7 @@
 * [➤ Fundamentos](#-fundamentos)
 	* [LEAN](#lean)
 		*[lean Startup](#lean-startup)
-	
+
 * [➤ Accessibility](#-accessibility)
 	* [The why](#the-why)
 	* [Screen Readers](#screen-readers)
@@ -66,16 +66,17 @@
 
 ### O que é a trilha da Agilidade?
 
-Trilha da Agilidade é um panorama visual de habilidades úteis para um agilista. É uteil para pessoas que estão começando a aprender, assim como para pessoas que estão na área há muito tempo e precisam aprender coisas novas. Se você estiver ingressando no mundo àgil agora não quero que pense que aqui está uma lista definitiva de coisas que você deve buscar para se desenvolver como Agilista, mas como um ponto de partida para as disciplinas que você poderá se apropriar. As habilidades estão ordenadas em ordem cronológica tomando como base a trilha que consultei junto a comunidade Ágil brasileira. Fique à vontade!
+Trilha da Agilidade é um panorama visual de habilidades úteis para um agilista. É útil para você que está iniciando na jornada ágil, assim como para você que está nesta jornada há muito tempo e precisa aprender coisas novas. Se você estiver chegando na agilidade agora não quero que pense que aqui está uma lista definitiva de coisas que você deve buscar para se desenvolver como Agilista, mas como um ponto de partida para as disciplinas que você poderá se apropriar. As habilidades estão ordenadas em ordem cronológica tomando como base a trilha que consultei junto a comunidade Ágil Mundial. Fique à vontade!
 
 
 ### Como você selecionou as habilidades?
-		
-As habilidades listadas são fruto de minha experiência com a Agilidade ao longo destes 13 anos. Nas comunidades o debate sempre é intenso sobre o que devemos ter em nossos leque de habilidades como Agilista. Tomei como base todas as informações que rolam nos grupos de Agilistas.Certamente a lista estará incompleta. É aí que você entra! 
+
+As habilidades listadas são fruto de minha experiência com a Agilidade ao longo destes 13 anos. Nas comunidades o debate sempre é intenso sobre o que devemos ter em nossos leque de habilidades como Agilista. Tomei como base todas as informações que rolam nos grupos de Agilistas.Certamente a lista estará incompleta. É aí que você entra!
 
 ### Como posso patrocinar seu trabalho?
 
-I am spending my spare time building Web Skills for free because I want to help people get into web development. My motivation comes from people finding Web Skills useful, so if you like the project feel free to support me in any way you like! For example, you are more than welcome to become a [stargazer](https://github.com/andreasbm/web-skills/stargazers), share Web Skills with your friends and followers or create blog articles linking to Web Skills. If you want to, it will absolutely make my day if you [support me with a cup of coffee](https://www.buymeacoffee.com/AndreasMehlsen)! <3
+Eu dedico parte do meu tempo a ajudar a comunidade ágil de forma gratuita, porque eu quero que os valores e princípios da agilidade se espalhem pelo mundo. Minha motivação parte da ajuda sem preço que isso tem tanto para mim como para você. Como costumo brincar, agradecimento não paga o café, mas você pode contribuir com um cafezinho que ficarei imensamente agradecido. É singelo, mas acredite, faz toda diferença para mim porque vem em formato de carinho.
+<3
 
 ### Como posso contribuir?
 Você é muito bem vindo para contribuir do jeito que quiser. Se você puder, coloque suas ideias em [issues page](https://github.com/reynaldobarrosjr/agile-skills/issues). Assim me ajudará com possíveis erros nos textos, bugs na página ou até mesmo novas features. Qualquer ajuda é bem vinda!
@@ -86,7 +87,7 @@ Ainda não tá funcionando mas vamos trabalhar nisso.
 
 ### É muita coisa Rey! Me ajuda!?
 
-Aí tem um pouco da jornada que todo agilista vai seguir. Fique na paz! O que vai te construir é o caminho. 
+Aí tem um pouco da jornada que todo agilista vai seguir. Fique na paz! O que vai te construir é o caminho.
 
 ### Porque você não incluiu o tema x, y, z?
 
@@ -133,7 +134,7 @@ Learn how to design efficient forms, validating them effectively and keeping the
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributors)
 
 ## ➤ Pessoas que estão colaborando
-	
+
 
 | [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
@@ -144,5 +145,5 @@ Learn how to design efficient forms, validating them effectively and keeping the
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
 
 ## ➤ Licença
-	
+
 Licensed under [MIT](https://github.com/reynaldobarrosjr/agile-skills).
