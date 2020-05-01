@@ -1,11 +1,12 @@
 import {fundamentalsCollection} from "./data/fundamentals.js";
-import {teamCollaborationCollection} from "./data/team-collaboration.js";
+// import {facilitationTechniquesCollection} from "./data/facilitationtechniques.js"
 
 /**
  * All available collections.
  */
 export const collections = [
 	fundamentalsCollection,
-	teamCollaborationCollection,
+	
+
 
 ];

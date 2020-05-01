@@ -68,7 +68,8 @@ export async function openHelp () {
 			<3</p>
 
 			<h3>Como posso contribuir?</h3>
-		<p>	Você é muito bem vindo para contribuir do jeito que quiser. Se você puder, coloque suas ideias em [issues page](https://github.com/reynaldobarrosjr/agile-skills/issues). Assim me ajudará com possíveis erros nos textos, bugs na página ou até mesmo novas features. Qualquer ajuda é bem vinda!
+		<p>	Você é muito bem vindo para contribuir do jeito que quiser. Se você puder, coloque suas ideias <a href="https://github.com/reynaldobarrosjr/agile-skills/issues">aqui</a>. Assim me ajudará com possíveis erros nos textos, bugs na página ou até mesmo novas features. Qualquer ajuda é bem vinda!
+			Se preferir me ajudar a organizar as informações visualmente você pode fazê-lo diretamente no Mural.
 </p>
 			<p>Como eu deixo registrado o que eu já sei?</p>
 
@@ -83,14 +84,13 @@ export async function openHelp () {
 			<p>Esse trabalho é organico e eu vou atualizando a medida que vou recebendo seu feedback, coloque ele aqui >>  [dar feedback](https://github.com/reynaldobarrosjr/agile-skills/issues).
 </p>
 
-			<h3>How can I get rid of the horizontal scrolling?</h3>
-			<p>Many people do not like horizontal scrolling; Personally I really like in this context and wanted to build something truly unique :-) If you want to get rid of the horizontal scrolling, you can toggle back and forth between the wide and compact layout by using the switch at the top of the page. The compact mode is default for mobile users. If you want to share a link for the compact mode you can add <code>?compact</code> to the end of the URL. If you like the wide layout the most you can use the mouse to drag yourself around on the page or press <code>Alt + /</code> to jump to other sections.</p>
+			<h3>Como posso me livrar da rolagem horizontal?</h3>
+			<p>Muitas pessoas não gostam da rolagem horizontal. Eu curto neste contexto porque o cara que construiu esse visual tinha a intenção de que ele fosse único.
+			Mas, se você quer se livrar da rolagem, use o botão no canto superior direito do site. Se você quiser compartilhar com alguém o modelo compacto, você terá de usar <code>?compac</code> ao final da URL.
 
-			<h3>What does the "experimental" banner mean?</h3>
-			<p>When a skill is described as experimental, it means that the technology is immature and currently in the process of being added to the Web platform (or considered for addition). Think carefully before you start using experimental technology in any kind of production project. The definition used in Web Skills is based on the excellent definition used on <a target="_blank" href="https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Conventions_definitions#Experimental" rel="noopener">MDN</a>. You are very welcome to open an issue on <a target="_blank" href="https://github.com/andreasbm/web-skills/issues" rel="noopener" aria-label="Open get involved">Github</a> if you see a skill you believe should be marked as "experimental" or have the banner removed.</p>
 
-			<h3>How can I get in contact with you?</h3>
-			<p>Reach out to me on Twitter at <a target="_blank" href="https://twitter.com/AndreasMehlsen" rel="noopener" aria-label="Open Twitter">@AndreasMehlsen</a> or take a look at <a target="_blank" href="https://andreasbm.github.io" rel="noopener" aria-label="Open personal website">my website</a> if you want to learn more about what other projects I'm working on.</p>
+			<h3>Como posso entrar em contato com você?</h3>
+			<p>A melhor forma é me dando um alô no <a target="_blank" href="https://www.linkedin.com/in/reynaldojr/" rel="noopener" aria-label="Abrir LinkedIn">LinkedIn</a> ou dê uma olhada em  <a target="_blank" href="https://www.reynadldobarrosjr.com" rel="noopener" aria-label="Abrir site pessoal">meu site</a> se você quiser ver outras coisas que estou fazendo.</p>
 
 			<span id="version">v${APP_VERSION}</span>
 		`, $dialog)

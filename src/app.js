@@ -10,11 +10,12 @@ import {auth, AuthEvents} from "./firebase/auth.js";
 import "./molecules/collection.js";
 import {sharedStyles} from "./styles/shared.js";
 import {
-	andreasIconTemplate,
+
 	coffeeIconTemplate,
 	githubIconTemplate,
 	helpIconTemplate,
-	shareIconTemplate
+	shareIconTemplate,
+	reynaldoAvatarTemplate,
 } from "./util/icons.js";
 import {
 	measureDimensions,
@@ -707,7 +708,7 @@ export class App extends LitElement {
 						<ws-icon .template="${shareIconTemplate}"></ws-icon>
 					</ws-button>
 					<a aria-label="autor" href="https://www.reynaldobarrosjr.com" target="_blank" rel="noopener" title="Dê um oi!">
-						<ws-icon hoverable .template="${andreasIconTemplate}" ></ws-icon>
+						<ws-icon hoverable .template="${reynaldoAvatarTemplate}"></ws-icon>
 					</a>
 					<a id="coffee" aria-label="Buy coffee" href="https://www.buymeacoffee.com/AndreasMehlsen" rel="noopener" title="Support me <3" target="_blank">
 						<svg id="steam" viewBox="0 0 250 327" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"><g fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke="currentColor" stroke-width="41"><path d="M119.563 265.584c-27-20.344-43.822-41.277-50.465-62.8-6.643-21.522-7.9-45.48-3.771-71.875M170.152 189.86c12.91-24.089 19.139-47.393 18.685-69.913-.453-22.52-5.297-42.502-14.53-59.947"/></g></svg>

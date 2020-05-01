@@ -22,7 +22,7 @@
 	* [Como posso patrocinar seu trabalho?](#how-can-i-support-you)
 	* [Como posso contribuir?](#como-posso-contribuir)
 	* [Como mantenho o registro do que já aprendi?](#how-can-i-keep-track-of-what-skills-i-know)
-	* [Tô bugado Rey! Me ajuda!](#i-am-overwhelmed-help-me)
+	* [Tô bugado Rey! Me ajuda!](#é-muita-coisa-rey-me-ajuda)
 	* [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
 	* [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
 	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)

@@ -5,12 +5,12 @@
 	"license": "MIT",
 	"author": "Reynaldo Barros Jr",
 	"bugs": {
-		"url": "https://github.com/andreasbm/web-skills/issues"
+		"url": "https://github.com/reynaldobarrosjr/agile-skills/issues"
 	},
-	"homepage": "https://github.com/andreasbm/web-skills#readme",
+	"homepage": "https://github.com/reynaldobarrosjr/agile-skills#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/andreasbm/web-skills.git"
+		"url": "git+https://github.com/reynaldobarrosjr/agile-skills.git"
 	},
 	"keywords": [
 		"lean",
