@@ -71,9 +71,9 @@ export async function openHelp () {
 		<p>	Você é muito bem vindo para contribuir do jeito que quiser. Se você puder, coloque suas ideias <a href="https://github.com/reynaldobarrosjr/agile-skills/issues">aqui</a>. Assim me ajudará com possíveis erros nos textos, bugs na página ou até mesmo novas features. Qualquer ajuda é bem vinda!
 			Se preferir me ajudar a organizar as informações visualmente você pode fazê-lo diretamente no Mural.
 </p>
-			<p>Como eu deixo registrado o que eu já sei?</p>
+			<h3>Como eu deixo registrado o que eu já sei?</h3>
 
-		<p>	Ainda não tá funcionando mas vamos trabalhar nisso.
+		<p>	Ainda não tá funcionando mas vamos trabalhar nisso?
 	</p>
 			<h3>É muita coisa Rey! Me ajuda!?</h3>
 

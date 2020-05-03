@@ -2,7 +2,7 @@ export const fundamentalsCollection = {
 	name: "FUNDAMENTOS",
 	areas: [
 		{
-			name: "LEAN",
+			name: "FILOSOFIAS",
 			skills: [
 				{
 					name: "Lean",
@@ -13,37 +13,30 @@ export const fundamentalsCollection = {
 							["Guia da metodologia Lean","https://gaea.com.br/guia-completo-para-entender-a-metodologia-lean-de-uma-vez-por-todas/"],
 							["Os 5 princípios do Lean Manufaturing", "https://www.youtube.com/watch?v=izqiwdriepw"],
 						]
+				}
+
+				},
+				{
+					name: "Agile",
+					description: {
+						text: "Aprenda a proposta da filosofia Ágil.",
+						links: [
+							["Tudo sobre Agile", "https://medium.com/aela/tudo-sobre-agile-a-filosofia-que-far%C3%A1-voc%C3%AA-muito-mais-eficiente-ac1a5721fe20"],
+
+						]
 				},
 					skills: [
 						{
-							name: "Metodologia Lean",
+							name: "Manifesto Ágil",
 							description: {
-								text: "Conheça a metodologia Lean",
+								text: "Conheça o manifesto Ágil",
 								links: [
-									["O que é Lean startup", "https://meusucesso.com/artigos/inovacao-e-tecnologia/o-que-e-lean-startup-10/"],
-
-
-
-
+									["Manifesto ágil para desenvolvimento de software", "https://agilemanifesto.org/iso/ptbr/manifesto.html"],
 								]
 							},
 						},
-						{
-							name: "Lean Startup",
-							description: {
-								text: "Conheça o conceito Lean Startup",
-								links: [
-									["O que é Lean startup", "https://meusucesso.com/artigos/inovacao-e-tecnologia/o-que-e-lean-startup-10/"],
-
-
-
-
-								]
-							},
-						}
-
 					]
-				},
+				}
 			]
 		},
 		{
@@ -51,7 +44,7 @@ export const fundamentalsCollection = {
 			skills: [
 
 				{
-					name: "SCRUM GUIDE",
+					name: "Scrum Guide",
 					description: {
 						text: "Leia o SCRUM GUIDE.",
 						links: [
@@ -67,8 +60,37 @@ export const fundamentalsCollection = {
 								links: [
 									["Quais são os papéis no SCRUM", "#"],
 
-								]
+								],
 							},
+							skills: [
+								{
+									name:"Scrum Master",
+									description:{
+										text:"teste",
+										links:[
+											["teste","#"],
+										],
+									},
+								},
+								{
+									name:"Product Owner",
+									description:{
+										text:"teste",
+										links:[
+											["teste","#"],
+										],
+									},
+								},
+								{
+									name:"Product Owner",
+									description:{
+										text:"teste",
+										links:[
+											["teste","#"],
+										],
+									},
+								}
+							]
 						},
 						{
 							name: "Eventos",
@@ -77,11 +99,21 @@ export const fundamentalsCollection = {
 								links: [
 									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
 									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
-									["When do the :hover, :focus, and :active pseudo-classes apply?", "https://bitsofco.de/when-do-the-hover-focus-and-active-pseudo-classes-apply/"],
-									["W3Schools - CSS Pseudo-elements", "https://www.w3schools.com/css/css_pseudo_elements.asp"],
-									["W3Schools - CSS Pseudo-classes", "https://www.w3schools.com/css/css_pseudo_classes.asp"],
-								]
+
+								],
 							},
+							skills:[
+								{
+									name:"dasdad",
+									description:{
+										text:"dsdad",
+										links:[
+											["dsadsad","#"]
+										]
+									}
+
+								}
+							]
 						},
             {
 							name: "Artefatos",
