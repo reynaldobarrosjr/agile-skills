@@ -64,7 +64,7 @@ export const fundamentalsCollection = {
 							},
 							skills: [
 								{
-									name:"Scrum Master",
+									name:"x1",
 									description:{
 										text:"teste",
 										links:[
