@@ -82,7 +82,7 @@ export const fundamentalsCollection = {
 									},
 								},
 								{
-									name:"Product Owner",
+									name:"Desenvolvedores",
 									description:{
 										text:"teste",
 										links:[
@@ -98,21 +98,64 @@ export const fundamentalsCollection = {
 								text: "Aprenda sobre os diferentes eventos do framework SCRUM.",
 								links: [
 									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
-									["CSS Tricks - Meet the Pseudo Class Selectors", "https://css-tricks.com/pseudo-class-selectors/"],
+
 
 								],
 							},
 							skills:[
 								{
-									name:"dasdad",
+									name:"Sprint Planning ",
 									description:{
-										text:"dsdad",
+										text:"Saiba tudo sobre a Sprint Planning",
 										links:[
-											["dsadsad","#"]
+											["O que é o Sprint Planning?","#"]
+										]
+									}
+
+								},
+								{
+									name:"Sprint",
+									description:{
+										text:"Saiba tudo sobre a Sprint Planning",
+										links:[
+											["O que é o Sprint Planning?","#"]
+										]
+									}
+
+								},
+								{
+									name:"Daily Scrum",
+									description:{
+										text:"Saiba tudo sobre a Sprint Planning",
+										links:[
+											["O que é o Sprint Planning?","#"]
+										]
+									}
+
+								},
+								{
+									name:"Sprint retrospective",
+									description:{
+										text:"Saiba tudo sobre a Sprint Planning",
+										links:[
+											["O que é o Sprint Planning?","#"]
+										]
+									}
+
+								},
+								{
+									name:"Revisão da Sprint",
+									description:{
+										text:"Saiba tudo sobre a Sprint Planning",
+										links:[
+											["O que é o Sprint Planning?","#"]
 										]
 									}
 
 								}
+
+
+
 							]
 						},
             {
@@ -126,6 +169,45 @@ export const fundamentalsCollection = {
 
 								]
 							},
+							skills:[
+								{
+									name:"Product backlog",
+									description: {
+										text:"Saiba tudo sobre o backlog do produto",
+										links:[
+											["Como montar o sprint backlog","#"]
+
+										]
+
+									}
+
+								},
+								{
+									name:"Sprint backlog",
+									description: {
+										text:"Saiba tudo sobre o Sprint Backlog",
+										links:[
+											["Como montar o sprint backlog","#"]
+
+										]
+
+									}
+
+								},
+								{
+									name:"Incremento",
+									description: {
+										text:"Saiba tudo sobre o Incremento",
+										links:[
+											["Como montar o sprint backlog","#"]
+
+										]
+
+									}
+
+								}
+
+							]
 						}
 					]
 				}
