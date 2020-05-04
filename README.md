@@ -3,7 +3,7 @@
 	Trilha da Agilidade é um panorama visual de habilidades que você deve buscar como especialista Ágil. Visite <a href="https://reynaldobarrosjr.github.io/agile-skills" target="_blank" aria-label="Link para a trilha Ágil">https://reynaldobarrosjr.github.io/agile-skills</a> para checar o panorama ou role esta página para visualizar como <a href="#-fundamentals" target="_blank" aria-label="Link para a lista de habilidades">uma lista</a>. Se você é um Agile Coach, Scrum Master ou entusiasta de Agilidade, <a href="https://github.com/reynaldobarrosjr/agile-skills/#seja-um-parceiro" aria-label="Become Agilizer link">seja um parceiro 🤩, será uma honra sua colaboração aqui.</a>
 </p>
 <p align="center">
-	<a href="http://andreasbm.github.io/web-skills" target="_blank">
+	<a href="http://reynaldobarrosjr.github.io/agile-skills" target="_blank">
 		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
 	</a>
 </p>
