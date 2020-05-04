@@ -110,7 +110,7 @@ Pode ser no twitter [@reynaldosouzajr](https://twitter.com/reynaldosouzajr) or t
 Aprenda o básico da filosofia Lean e trabalhe em prol da eficiência.
 
 
-* [ ] [<img style="margin-bottom: 0; width:16px;" src="https://www.lean.org.br/img/icon_lib.ico" alt="Logo" /> O que é LEAN](https://www.lean.org.br/o-que-e-lean.aspx)
+* [ ] [<img style="margin-bottom: 0; max-width:16px;" src="https://www.lean.org.br/img/icon_lib.ico" alt="Logo" /> O que é LEAN](https://www.lean.org.br/o-que-e-lean.aspx)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Guia da metodologia Lean](https://gaea.com.br/guia-completo-para-entender-a-metodologia-lean-de-uma-vez-por-todas/)
 
 
