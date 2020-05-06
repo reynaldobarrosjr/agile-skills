@@ -58,35 +58,35 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Aprenda sobre os diferentes papéis em um time scrum.",
 								links: [
-									["Quais são os papéis no SCRUM", "#"],
+									["Os 3 papéis do SCRUM e sua importância", "https://agilemomentum.wordpress.com/2014/04/30/quem-e-voce-os-3-papeis-do-scrum-e-sua-importancia/"],
 
 								],
 							},
 							skills: [
 								{
-									name:"x1",
+									name:"Scrum Master",
 									description:{
-										text:"teste",
+										text:"Conheça o papel responsável por buscar o melhor time SCRUM",
 										links:[
-											["teste","#"],
+											["O que faz um SCRUM MASTER?","#"],
 										],
 									},
 								},
 								{
 									name:"Product Owner",
 									description:{
-										text:"teste",
+										text:"Conheça o papel responsável por buscar o melhor produto",
 										links:[
-											["teste","#"],
+											["O que faz um PRODUCT OWNER?","#"],
 										],
 									},
 								},
 								{
-									name:"Desenvolvedores",
+									name:"Time Dev",
 									description:{
-										text:"teste",
+										text:"Conheça os responsáveis por sempre querer fazer mais com menos - (muito cuidado nessa hora)",
 										links:[
-											["teste","#"],
+											["O que faz o time de desenvolvimento do scrum?","#"],
 										],
 									},
 								}
@@ -97,7 +97,7 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Aprenda sobre os diferentes eventos do framework SCRUM.",
 								links: [
-									["MDN - Pseudo-classes", "https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes"],
+									["Quais são os eventos SCRUM?", "#"],
 
 
 								],
@@ -468,19 +468,7 @@ export const fundamentalsCollection = {
 						]
 					},
 				},
-				{
-					name: "Best Practices",
-					description: {
-						text: "Learn the best practices of writing Javascript.",
-						links: [
-							["MDN - JavaScript guidelines", "https://developer.mozilla.org/en-US/docs/MDN/Contribute/Guidelines/Code_guidelines/JavaScript"],
-							["Airbnb - JavaScript Style Guide", "https://github.com/airbnb/javascript"],
-							["Principles of Writing Consistent, Idiomatic JavaScript", "https://github.com/rwaldron/idiomatic.js/"],
-							["5 JavaScript Style Guides", "https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa"],
-							["JavaScript Style Guide and Coding Conventions", "https://www.w3schools.com/js/js_conventions.asp"],
-						]
-					}
-				}
+
 			]
 		},
 
