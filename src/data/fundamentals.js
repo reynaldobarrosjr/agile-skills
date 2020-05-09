@@ -104,7 +104,7 @@ export const fundamentalsCollection = {
 							},
 							skills:[
 								{
-									name:"Sprint Planning ",
+									name:"Planejamento da Sprint",
 									description:{
 										text:"Saiba tudo sobre a Sprint Planning",
 										links:[
@@ -116,9 +116,9 @@ export const fundamentalsCollection = {
 								{
 									name:"Sprint",
 									description:{
-										text:"Saiba tudo sobre a Sprint Planning",
+										text:"Sprint - a hora da mão na massa no SCRUM",
 										links:[
-											["O que é o Sprint Planning?","#"]
+											["O que é a Sprint?","#"]
 										]
 									}
 
@@ -126,19 +126,19 @@ export const fundamentalsCollection = {
 								{
 									name:"Daily Scrum",
 									description:{
-										text:"Saiba tudo sobre a Sprint Planning",
+										text:"Saiba tudo sobre um dos principais eventos do SCRUM",
 										links:[
-											["O que é o Sprint Planning?","#"]
+											["O que é o daily scrum?","#"]
 										]
 									}
 
 								},
 								{
-									name:"Sprint retrospective",
+									name:"Retrospectiva da sprint",
 									description:{
-										text:"Saiba tudo sobre a Sprint Planning",
+										text:"Saiba tudo sobre o momento de melhoria contínua do time",
 										links:[
-											["O que é o Sprint Planning?","#"]
+											["O que é a Retrospectiva da Sprint?","#"]
 										]
 									}
 
