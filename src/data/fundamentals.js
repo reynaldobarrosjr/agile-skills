@@ -77,7 +77,7 @@ export const fundamentalsCollection = {
 									description:{
 										text:"Conheça o papel responsável por buscar o melhor produto",
 										links:[
-											["Quero ser Product Owner?","Quero ser Product Owner, por onde começar?"],
+											["Quero ser Product Owner, por onde começar?","medium.com/mulheres-de-produto/quero-ser-product-owner-por-onde-começar-8e2263609073"],
 										],
 									},
 								},
