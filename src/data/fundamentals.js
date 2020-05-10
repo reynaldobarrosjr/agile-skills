@@ -197,9 +197,9 @@ export const fundamentalsCollection = {
 								{
 									name:"Incremento",
 									description: {
-										text:"Saiba tudo sobre o Incremento",
+										text:"Saiba mais sobre o Incremento",
 										links:[
-											["Como montar o sprint backlog","#"]
+											["Definição de pronto e incremento","https://escritoriodeprojetos.com.br/definicao-de-pronto-e-incremento"]
 
 										]
 

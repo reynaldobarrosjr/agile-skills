@@ -28,10 +28,12 @@
 	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
 * [➤ Fundamentos](#-fundamentos)
 	* [LEAN](#lean)
-		*[lean Startup](#lean-startup)
+		*[lean](#lean)
+		*[Agilidade](#agilidade)
+		*[Manifesto Ágil](#manifesto-agil)
 
-* [➤ Accessibility](#-accessibility)
-	* [The why](#the-why)
+* [➤ Scrum](#scrum)
+	* [Scrum Guide](#scrum-guide)
 	* [Screen Readers](#screen-readers)
 	* [Accessibility tree](#accessibility-tree)
 		* [ARIA](#aria)
@@ -96,7 +98,7 @@ Esse trabalho é organico e eu vou atualizando a medida que vou recebendo seu fe
 
 ### Como posso entrar em contato com você?
 
-Pode ser no twitter [@reynaldosouzajr](https://twitter.com/reynaldosouzajr) or take a look at [my website](https://andreasbm.github.io) if you want to learn more about what other projects I'm working on.
+Pode ser no twitter [@reynaldosouzajr](https://twitter.com/reynaldosouzajr) ou no [meu site ](https://reynaldobarrosjr.com) se você quiser saber no que mais estou trabalhando.
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#fundamentals)
@@ -118,10 +120,7 @@ Aprenda o básico da filosofia Lean e trabalhe em prol da eficiência.
 
 Familiarize-se com o que há de mais básico no SCRUM. Vai ser fácil de entender e dificílimo de você praticar. Boa sorte!
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> MDN - HTML elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.tutorialspoint.com" alt="Logo" /> Tutorialspoint - Basic HTML tags](https://www.tutorialspoint.com/html/html_basic_tags.htm)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.elated.com" alt="Logo" /> Elated - First 10 HTML tags](https://www.elated.com/first-10-html-tags/)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - HTML tags](https://www.w3schools.com/tags/ref_byfunc.asp)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf)
 
 ### KANBAN
 
@@ -137,10 +136,10 @@ Learn how to design efficient forms, validating them effectively and keeping the
 ## ➤ Pessoas que estão colaborando
 
 
-| [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
+| [<img alt="Reynaldo Barros jr" src="https://pbs.twimg.com/profile_images/995633280430067713/ERUccM5X.jpg" width="100">](https://twitter.com/reynaldosouzajr) | [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
 |:--------------------------------------------------:|:--------------------------------------------------:|
-| [Reynaldo Barros Jr](#) |  [Andreas Mehlsen](https://twitter.com/andreasmehlsen) |
-| 🔥                                               |                                                  |
+| [Reynaldo Barros Jr](https://twitter.com/reynaldosouzajr) |  [Andreas Mehlsen](https://twitter.com/andreasmehlsen) |
+| 🔥                                               |  🔥                                                |
 
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
