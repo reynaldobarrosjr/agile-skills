@@ -725,18 +725,18 @@ export class App extends LitElement {
 			<footer id="footer">
 				<div>
 					${user != null ? html`
-						<ws-button @click="${signOut}">🔓 Sign out</ws-button>
+						<ws-button @click="${signOut}">🔓 Sair</ws-button>
 					` : html`
-						<ws-button @click="${signIn}">🔒 Sign in with Google</ws-button>
+						<ws-button @click="${signIn}">🔒 Entrar com minha conta Google</ws-button>
 					`}
-					<a href="https://github.com/andreasbm/web-skills/stargazers" target="_blank" aria-label="Become a stargazer" rel="noopener">
-						<ws-button>⭐️ Become a stargazer</ws-button>
+					<a href="https://github.com/reynaldobarrosjr/agile-skills" target="_blank" aria-label="Vamos mapear a trilha ágil" rel="noopener">
+						<ws-button>⭐️ Seja um Guia da Agilidade</ws-button>
 					</a>
-					<a href="https://twitter.com/AndreasMehlsen" target="_blank" aria-label="Open Twitter" rel="noopener">
-						<ws-button>🐦 Say hi on Twitter</ws-button>
+					<a href="https://twitter.com/reynaldosouzajr" target="_blank" aria-label="Abrir o twitter" rel="noopener">
+						<ws-button>🐦 Me dá um oi no twitter</ws-button>
 					</a>
-					<a href="https://www.buymeacoffee.com/AndreasMehlsen" target="_blank" aria-label="Buy coffee" rel="noopener">
-						<ws-button>☕️ Support me with a cup of coffee</ws-button>
+					<a href="#" target="_blank" aria-label="Dar um café para o Rey" rel="noopener">
+						<ws-button>☕️ Me dê um incentivo com um Café!</ws-button>
 					</a>
 				</div>
 			</footer>
