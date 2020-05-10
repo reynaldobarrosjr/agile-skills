@@ -9,13 +9,14 @@ export const SNACK_CONTAINER_ID = "snack-container";
 export const CLOSE_DESCRIPTION_EVENT = "closeDescription";
 
 export const FIREBASE_CONFIG = {
-	apiKey: "AIzaSyAeptLYIAEF7MtzFjKo0XYtC6i0BXbqdjI",
-	authDomain: "web-skills.firebaseapp.com",
-	databaseURL: "https://web-skills.firebaseio.com",
-	projectId: "web-skills",
-	storageBucket: "web-skills.appspot.com",
-	messagingSenderId: "796050122198",
-	appId: "1:796050122198:web:422fd7fee1037c3a2a3077"
+	apiKey: "AIzaSyAUOz64wVZGtDNM6pSf4x12AyVxkHj3B1k",
+  authDomain: "agile-skills.firebaseapp.com",
+  databaseURL: "https://agile-skills.firebaseio.com",
+  projectId: "agile-skills",
+  storageBucket: "agile-skills.appspot.com",
+  messagingSenderId: "735255778301",
+  appId: "1:735255778301:web:37d312ad3619753f27bf94",
+  measurementId: "G-NTMQQNXN5C"
 };
 
 export const LAZY_IMG_INTERSECTION_OPTIONS = {
