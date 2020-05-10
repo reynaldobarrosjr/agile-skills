@@ -230,9 +230,9 @@ export const fundamentalsCollection = {
 						{
 							name:"kanban",
 							description:{
-								text:"S",
+								text:"Conheça o artefato de transparência kanban (cartão visual)",
 								links:[
-									["das","#"],
+									["O que é o cartão kanban","https://kanbanize.com/pt/recursos-kanban/primeiros-passos/o-que-e-cartao-kanban"],
 								]
 							},
 						}

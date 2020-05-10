@@ -57,18 +57,18 @@ export class Description extends LitElement {
 					transform: translate(-7%, -5px);
 					cursor: default;
 				}
-				
+
 				:host([directionX="left"]) {
 					left: unset;
 					right: 0;
 					transform: translate(7%, -5px);
 				}
-				
+
 				:host([directionY="up"]) {
 					top: unset;
 					bottom: 50%;
 				}
-				
+
 				:host:before {
 					content: "";
 					border-style: solid;
@@ -78,18 +78,18 @@ export class Description extends LitElement {
 					bottom: 100%;
 					left: 15%;
 				}
-				
+
 				:host([directionX="left"]):before {
 					left: unset;
 					right: 15%;
 				}
-				
+
 				:host([directionY="up"]):before {
 					top: unset;
 					top: 100%;
 					transform: rotate(180deg);
 				}
-				
+
 				#text {
 					margin: 0;
 				}
@@ -102,7 +102,7 @@ export class Description extends LitElement {
 					margin: var(--spacing-m) 0 0 0;
     			    padding: 0 0 0 var(--spacing-s);
 				}
-				
+
 				.link {
 					display: flex;
     			    align-items: center;
@@ -127,15 +127,15 @@ export class Description extends LitElement {
 					color: var(--link);
 					word-break: break-word;
 				}
-				
+
 				a:visited {
 					color: var(--link-visited);
 				}
-				
+
 				.img {
 					font-size: 0;
 				}
-				
+
 				#complete-button {
 					margin: var(--spacing-l) 0 0 0;
 					width: 100%;
@@ -153,7 +153,7 @@ export class Description extends LitElement {
 				#smart-search > :not(:last-child) {
 					margin: 0 var(--spacing-s) 0 0;
 				}
-				
+
 				@media (any-pointer: coarse) and (max-width: 700px) {
 					:host {
 						position: fixed;
@@ -167,13 +167,13 @@ export class Description extends LitElement {
 						-webkit-overflow-scrolling: touch;
 						transform: translate(0) !important;
 					}
-					
+
 					.link {
 					    padding: var(--spacing-m);
 						border: 1px solid currentColor;
 						border-radius: var(--border-radius-s);
 					}
-					
+
 					.link:not(:last-child) {
 						margin: 0 0 var(--spacing-m);
 					}
@@ -353,7 +353,7 @@ export class Description extends LitElement {
 			${description != null && description.links != null && description.links.length > 0 ? html`
 				<div id="links">${repeat(description.links, link => link, this.renderLink.bind(this))}</div>
 			` : undefined}
-			
+
 			<div id="smart-search">
 				<a id="search-google" href="https://www.google.com/search?q=${encodeURIComponent(skillSearchQuery)}" target="_blank" aria-label="Search on Google" rel="noopener" @click="${e => onClickLink(e)}">
 					<ws-icon hoverable .template="${googleIconTemplate}"></ws-icon>
@@ -362,9 +362,9 @@ export class Description extends LitElement {
 					<ws-icon hoverable .template="${youtubeIconTemplate}"></ws-icon>
 				</a>
 			</div>
-			
+
 			${isAuthenticated ? html`
-				<ws-button bordered id="complete-button" @click="${this.toggleCompleteSkill}">${isCompleted ? `Uncomplete Skill` : `Complete Skill`}</ws-button>
+				<ws-button bordered id="complete-button" @click="${this.toggleCompleteSkill}">${isCompleted ? `Preciso estudar` : `Tá dominado`}</ws-button>
 			` : undefined}
 		`;
 	}
