@@ -46,12 +46,12 @@ export async function openShare ({title, text, url}) {
 
 	const shareOptions = [
 		["Copy", () => copyToClipboard(url)],
-		["WhatsApp", () => openShareUrl(`https://wa.me/?text=${encodeURIComponent(`${title}. ${text}. Find it here ${url}`)}`)],
+		["WhatsApp", () => openShareUrl(`https://wa.me/?text=${encodeURIComponent(`${title}. ${text}. Dá uma olhada aqui ${url}`)}`)],
 		["Facebook", () => openShareUrl(`https://www.facebook.com/sharer/sharer.php?u=${safeUrl}`)],
 		["Twitter", () => openShareUrl(`https://twitter.com/intent/tweet?&url=${safeUrl}&text=${safeText}`)],
 		["LinkedIn", () => openShareUrl(`https://www.linkedin.com/shareArticle?mini=true&url=${safeUrl}&title=${safeTitle}&summary=${safeText}`)],
 		["Reddit", () => openShareUrl(`https://www.reddit.com/submit?url=${safeUrl}&title=${safeText}`)],
-		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Find it here ${url}`)}`)],
+		["Email", () => openShareUrl(`mailto:?subject=${safeTitle}&body=${encodeURIComponent(`${text}. Dá uma olhada aqui ${url}`)}`)],
 		["Hacker News", () => openShareUrl(`https://news.ycombinator.com/submitlink?u=${safeUrl}&t=${safeText}`)],
 		["Blogger", () => openShareUrl(`https://www.blogger.com/blog-this.g?n=${safeTitle}&b=${encodeURIComponent(`${text}. Find it <a href="${url}">here</a>.<br/><br/><img width="400" src="${img}" />`)}`)],
 		["Tumblr", () => openShareUrl(`https://www.tumblr.com/widgets/share/tool/preview?url=${safeUrl}`)],
@@ -70,13 +70,13 @@ export async function openShare ({title, text, url}) {
 				* {
 					box-sizing: border-box;
 				}
-				
+
 				#options {
 					display: grid;
 					grid-template-columns: repeat(auto-fill, minmax(8rem, 1fr));
 					grid-gap: var(--spacing-m);
 				}
-				
+
 				.option {
 					display: flex;
 					flex-direction: column;
@@ -89,22 +89,22 @@ export async function openShare ({title, text, url}) {
 					opacity: 1;
 					transition: 120ms ease opacity;
 				}
-				
+
 				.option:hover {
 					opacity: 0.8;
 				}
-				
+
 				.option .img {
 					width: 4rem;
 					height: 4rem;
 					margin: 0 0 var(--spacing-s);
 				}
-				
+
 				.option .text {
-					
+
 				}
 			</style>
-			
+
 			<div tabindex="0"></div>
 			<div id="options">
 				${repeat(shareOptions, renderShareOption)}
