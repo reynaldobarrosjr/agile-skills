@@ -97,7 +97,7 @@ export const fundamentalsCollection = {
 							description: {
 								text: "Aprenda sobre os diferentes eventos do framework SCRUM.",
 								links: [
-									["Quais são os eventos SCRUM?", "#"],
+									["Quais são os eventos SCRUM?", "https://www.linkedin.com/pulse/framework-scrum-entendendo-os-eventos-rafael-oliveira/"],
 
 
 								],
