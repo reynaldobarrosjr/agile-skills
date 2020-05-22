@@ -458,8 +458,8 @@ export class App extends LitElement {
 			timeout: 1000 * 20,
 			wide: true,
 			buttons: [
-				["Read More", () => this.openHelp()],
-				["Dismiss", () => ({})]
+				["Leia Mais", () => this.openHelp()],
+				["Desconsiderar", () => ({})]
 			]
 		});
 	}
